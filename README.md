@@ -1,0 +1,2 @@
+# WayFinder-SMP-Lite-Version
+
